@@ -1,7 +1,7 @@
 <h1 align="center">:wave: Hi, I'm Dev</h1>
 
 <p align="center">
-  <a href="https://github.com/devk22">
+  <a href="https://devkhandelwal.vercel.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/dev-khandelwal-1398711ba/">
