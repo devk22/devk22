@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    <a/>
   <a href="https://github.com/devk22">
-    <img src="https://img.shields.io/badge/harshpailkar-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/devkhandelwal-100000?style=for-the-badge&logo=github&logoColor=white">
    <a/>
   <a href="https://twitter.com/DevKhandelwal22">
-    <img src="https://img.shields.io/badge/@harsh_pailkar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/@DevKhandelwal22-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </p>
 
 ---
@@ -31,15 +31,15 @@
   <tr>
     <td>
       <a href="https://github.com/devk22">
-        <img src="https://github-readme-stats.vercel.app/api?username=harshpailkar&show_icons=true&include_all_commits=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=devk22&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
       <a href="https://github.com/devk22">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpailkar&layout=compact&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devk22&layout=compact&theme=tokyonight">
       <a/>
     </td>
   </tr>
 </table>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpailkar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devk22)](https://git.io/streak-stats)
