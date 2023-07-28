@@ -20,9 +20,9 @@
 - 🛠 Proficient with Web Development, C++, Python fundamentals, and MERN stack
 - 🌱 Currently learning more about the world of React and MERN along with DSA
 - 👯 Looking to collaborate on projects
-- 💬 Besides programming, I also play read books, watch movies, TV shows and anime and spend time with dogs.
+- 💬 Besides programming, I also play read books, watch movies, TV shows, and anime and spend time with dogs.
 <!-- - 🌐 Check out my website https://harshpailkar.github.io/ -->
-- 📫 Shoot me a mail at `devkhandelwal.229@gmail.com`
+- 📫 Shoot me a mail at `devkhandelwal.work@gmail.com`
 - 🤖 Am I testing my code? Or is it testing me...
 
 ---
